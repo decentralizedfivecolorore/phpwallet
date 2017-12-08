@@ -1,0 +1,44 @@
+body{
+	/*background-color:#003366;*/
+	background-color:#000000;
+	color: #cccc00;
+}
+.head{
+	margin:0 auto; width:100%; text-align:center;
+	color: #666600;
+}
+.main{
+	margin:0 auto; width:100%; text-align:center;
+}
+.foot{
+	margin:0 auto; width:100%; text-align:center;
+	position:fixed;
+	padding: 0px;
+	bottom: 0px;
+	color: #666600;
+}
+.nextstepdesc{
+	color: #00cc00;
+}
+.mac .ip{
+	color: #00cc00;
+}
+table{
+	width: 100%;
+	color: gray;
+	font-size: 32px;
+}
+td{
+	margin: 10px;
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+}
+.amount{
+	text-align: right;
+}
+.negative{
+	color: red;
+}
+.balance .unconfirmedbalance .status{
+	color: gray;
+}
